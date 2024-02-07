@@ -24,6 +24,10 @@ searchBtn.addEventListener("click", () => {
                 results.innerHTML = `<h3 class="off">Enter a valid city name</h3>`
             }
         })
-
+})
+input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+        searchBtn.click();
+    }
 })
 
