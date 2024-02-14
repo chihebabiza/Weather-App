@@ -1,4 +1,4 @@
-<h1>Project Name</h1>
+<h1>Weather App</h1>
 
 <p>A simple weather application that provides current weather information based on user location.</p>
 
