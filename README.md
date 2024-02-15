@@ -35,8 +35,8 @@
 
 <h2 id="installation">Installation</h2>
 <ol>
-    <li>Clone the repository: <code>git clone https://github.com/chihebabiza/weather-app.git</code></li>
-    <li>Navigate to the project directory: <code>cd weather-app</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/chihebabiza/Weather-App.git</code></li>
+    <li>Navigate to the project directory: <code>cd Weather-App</code></li>
     <li>Open <code>index.html</code> in your web browser.</li>
 </ol>
 
