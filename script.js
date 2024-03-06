@@ -5,6 +5,7 @@ const searchBtn = document.querySelector('.btn');
 
 searchBtn.addEventListener("click", () => {
     const city = input.value;
+    // console.log("chiheb");
     fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${api}`)
         .then((response) => response.json())
         .then((data) => {
