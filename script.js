@@ -1,3 +1,4 @@
+// console.log("welcome to github");
 const api = 'fbe673210543304029d14d2ed6fd75c4';
 const results = document.querySelector('.results');
 let input = document.querySelector('.input');
